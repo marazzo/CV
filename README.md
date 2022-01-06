@@ -1,6 +1,10 @@
-## Your Name
+## Marianne Azzopardi
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am an energetic and ambitious Full Stack Junior Developer, looking for a role where I can consolidate and extend my programming knowledge, while also gaining exposure to product management and business strategy.
+
+After graduating from Cambridge University with a degree in Chemistry, I spent two years working in investment banking as a Commodities trader. Between leaving my job and now, I've spent a gap year travelling independently around South East Asia, Australia and New Zealand, raised over £40k for charity through sponsored cycles and learnt to code at Makers Academy, a 16 week software development bootcamp.
+
+Tech Skills : Ruby, Rails, Sinatra, Node.js, Express, HTML, CSS, JavaScript, jQuery, Bootstrap, PostgreSQL
 
 ## Projects
 
